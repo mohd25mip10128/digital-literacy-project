@@ -55,17 +55,20 @@ Created an infographic using Canva covering:
 ---
 
 ### 🌐 Task 2 – Digital Portfolio  
-Created and updated professional profiles.
+Created and updated professional profiles on multiple platforms:  
+- GitHub  
+- LinkedIn  
+- Other professional/coding platforms  
 
 🔗 **GitHub Profile README:**  
 https://github.com/mohd25mip10128/amir-anwar-khan  
 
-These platforms help in building a strong digital identity for future academic and career growth.
+These platforms help in building a strong digital identity and will be used for learning, networking, and showcasing skills over the next four years.
 
 ---
 
 ### 💻 Task 3 – Coding & Collaboration Platforms  
-- Completed a beginner coding challenge  
+- Completed a beginner coding challenge on a coding platform  
 - Created a **Digital Literacy Awareness Quiz using Google Forms**  
 
 🔗 **Google Form Link:**  
@@ -79,30 +82,36 @@ This quiz is designed to test awareness about digital literacy among students.
 - Wrote two professional emails:  
   - Requesting assignment extension  
   - Applying for internship  
-- Created a social media Do’s and Don’ts checklist  
+- Created a **Social Media Do’s and Don’ts Checklist**  
 
 ---
 
 ### 🔐 Task 5 – Cybercrime Awareness (Ransomware Case Study)  
 This task focuses on **Ransomware**, a type of cyber attack where attackers lock or encrypt data and demand money to restore access.  
 
-It includes:  
-- Explanation of ransomware  
+#### 📄 Contents Included:  
+- Case Study (`casestudy.md`)  
+- Prevention Checklist (`prevention-checklist.md`)  
+
+#### 🔍 Topics Covered:  
+- What ransomware is  
 - How attacks happen  
 - Target victims  
-- Impact of attacks  
-- Prevention tips  
+- Consequences (data loss, financial damage)  
+- **Prevention strategies for students**  
 
 ---
 
-## 🛡️ Cyber Safety Tips  
-- Use strong passwords  
-- Avoid clicking unknown links  
-- Do not share OTPs or personal data  
-- Keep software updated  
-- Use secure payment methods  
+## 🛡️ Cyber Safety & Prevention Checklist  
+Key safety practices included in the project:  
+- Use strong and unique passwords  
+- Avoid suspicious links and attachments  
+- Do not share OTPs or sensitive information  
+- Keep devices and software updated  
+- Use secure payment methods (UPI safety)  
+- Enable two-factor authentication  
 
-Report cybercrime:  
+📢 Report cybercrime:  
 - 🌐 https://cybercrime.gov.in  
 - 📞 Helpline: 1930  
 
@@ -116,11 +125,12 @@ Detailed report is available in:
 
 ## 🎯 Learning Outcomes  
 - Improved understanding of digital literacy  
-- Learned professional communication  
-- Built online presence  
+- Learned professional communication skills  
+- Built a professional online presence  
 - Gained awareness about cyber threats like ransomware  
+- Learned practical cyber safety measures  
 
 ---
 
 ## 📢 Conclusion  
-This project enhanced my knowledge of digital tools and online safety. It helped me become more responsible and aware in the digital world.
+This project enhanced my knowledge of digital tools, communication, and cybersecurity. It helped me become more responsible and aware in the digital environment.
